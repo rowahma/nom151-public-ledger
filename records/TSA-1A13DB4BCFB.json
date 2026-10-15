@@ -1,0 +1,24 @@
+{
+  "header": {
+    "standard": "NOM-151-CANONICAL-JSON",
+    "version": "1.0",
+    "algorithm": "ECDSA-SHA256",
+    "certificateFingerprint": "46:29:1B:D8:54:5C:09:B0:A5:27:CD:C0:19:B7:EF:CF:CA:77:52:C2:26:78:61:F0:77:20:2E:BC:C9:32:E9:92",
+    "issuer": "tsa.vps.local"
+  },
+  "payload": {
+    "document": {
+      "hashAlgorithm": "SHA-256",
+      "hashValue": "4007eb77acbc854ff8d7d40ab3983429fe95442de7fdf628be0cfc30c3560e8f",
+      "fileSize": 912326,
+      "privacyNotice": "Nombre de archivo omitido intencionalmente por protección de datos."
+    },
+    "timestamp": {
+      "epoch": 1792036617467,
+      "source": "HOSTINGER_VPS_NTP",
+      "utc": "2026-10-15T03:56:57.467Z"
+    }
+  },
+  "signature": "MEUCIC8gojZbKHc52xuFxsU3/7hFKsAmpACEtjJC5h+CwX+BAiEAuLiVAVCYDzAk1Wyv2nbVpfw7d2Pr3y9b2HX2rRmhpgc=",
+  "folio": "TSA-1A13DB4BCFB"
+}
